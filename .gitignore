@@ -8,3 +8,4 @@
 *.orig
 *.rej
 /FF_Images*
+.DS_Store
